@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [FrontEnd Mentor: My Solution](https://www.frontendmentor.io/solutions/responsive-4-card-feature-section-using-css-flexbox-aoUWHBpjR)
-- Live Site URL: [GitHub Page: 4 Card Feature Section](https://anoshaahmed.github.io/fem-4-card-section/)
+- Live Site URL: [GitHub Page: 4 Card Feature Section](https://anoshaahmed.github.io/fem07-4-card-section/)
 
 ## My process
 
